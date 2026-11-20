@@ -11,18 +11,17 @@ npx skills add peterrauscher/skills
 That pulls every skill in this repo into your agent. To grab one skill only:
 
 ```bash
-npx skills add peterrauscher/skills --skill conventional-commits
+npx skills add peterrauscher/skills --skill humanize
 ```
 
 ## Skills
 
 | Skill | What it does |
 | --- | --- |
-| `conventional-commits` | Format commit messages with the Conventional Commits spec |
-| `humanize` | Edit or rewrite copy so it reads human, using humanizer v4.0.0, no-ai-slop, and my own bans |
+| `humanize` | Edit or rewrite copy so it reads human, with my own bans and copy preferences |
 | `improve-codebase-architecture` | Find deepening opportunities and architecture refactors |
 | `native-feel` | Polish mobile web UIs so they feel closer to native |
-| `remove-dumb-comments` | Flag (and optionally remove) comments that only restate the code |
+| `web-design-system-extract` | Extract a live site's design system (tokens, fonts, layout, interactions) with Playwright, adapted from [wweggplant/web-design-system-extract](https://github.com/wweggplant/web-design-system-extract) (MIT) |
 | `zoom-out` | Ask the agent for broader context on unfamiliar code |
 
 Browse more skills at [skills.sh](https://www.skills.sh).
