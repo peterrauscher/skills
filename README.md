@@ -19,9 +19,9 @@ npx skills add peterrauscher/skills --skill conventional-commits
 | Skill | What it does |
 | --- | --- |
 | `conventional-commits` | Format commit messages with the Conventional Commits spec |
+| `humanize` | Edit or rewrite copy so it reads human, using humanizer v4.0.0, no-ai-slop, and my own bans |
 | `improve-codebase-architecture` | Find deepening opportunities and architecture refactors |
 | `native-feel` | Polish mobile web UIs so they feel closer to native |
-| `peters-copywriting-rules` | Edit or rewrite copy so it reads human, using humanizer v4.0.0, no-ai-slop, and my own bans |
 | `remove-dumb-comments` | Flag (and optionally remove) comments that only restate the code |
 | `zoom-out` | Ask the agent for broader context on unfamiliar code |
 
